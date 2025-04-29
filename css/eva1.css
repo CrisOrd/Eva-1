@@ -1,0 +1,116 @@
+body{
+    margin: 0%;
+}
+#arriba{
+    background-color: black;
+    color :white ;
+    border: 1px 1px 1px 1px;
+    padding: 1px;
+}
+#arriba img{
+    height: 75px;
+    width: auto;
+}
+.ropa{
+    text-align: right;
+    font-family: "Roboto", sans-serif;
+    font-size: 1rem;   
+    margin-bottom: 0px; 
+    margin-top: 0px;
+}
+
+#logos{
+    background-image:url('logos.jpg')  ;
+    background-size: auto;
+    background-repeat: no-repeat;
+    height: 500px;
+    
+    
+    text-align: right;
+    font-family: "Roboto", sans-serif;
+    
+    
+}
+
+#logos a{
+    text-align: right;
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+    background-color: black;
+    color:white;
+    position: relative;
+    margin-bottom: 1000px;
+
+}
+
+#medio{
+    background-color: white;
+    margin: 20px 20px 20px 20px ;
+}
+
+.div1 h4{
+    text-align: left;
+    font-size: 13px;
+    font-family: "Roboto", sans-serif;
+}
+
+.div1{
+    border: 20px 20px 20px 20px;
+    padding: 1px;
+    position: sticky;
+    height: 50px;
+    
+    text-align: left;
+    font-size: 10px;
+    font-family: "Roboto", sans-serif;
+}
+.div1 img{
+    height: 50px;
+    margin-right: 75%;
+}
+
+.div2{
+    border: 20px 20px 20px 20px;
+    padding: 1px;
+    position: sticky;
+    height: 50px;
+    
+    text-align: center;
+    font-size: 10px;
+    font-family: "Roboto", sans-serif;
+}
+.div2 img{
+    height: 50px;
+}
+
+.div3 h4{
+    text-align: right;
+    font-size: 13px;
+    font-family: "Roboto", sans-serif;
+}
+
+.div3 p{
+    text-align: right;
+    font-size: 9px;
+    font-family: "Roboto", sans-serif;
+}
+.div3 img{
+    position: sticky;
+    height: 100px;
+    margin-left: 80%;
+}
+
+#section3{
+    background-color: black;
+    color: white;
+    font-family: "Roboto", sans-serif;
+    text-align: center;
+    margin-top: 100px;
+}
+#section3 h4{
+    font-size: 15px;
+}
+
+#section3 p{
+    font-size: 13px;
+}
